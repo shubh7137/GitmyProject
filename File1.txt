@@ -2,8 +2,8 @@ Welcome to world of "Game Of Gits"!!
 
 
 
-change1
+Change --> 1
 
-change2
+Change --> 2
 
-change3
+Change --> 3
